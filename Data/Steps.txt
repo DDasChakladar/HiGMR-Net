@@ -1,4 +1,4 @@
 1. Download the FTD and HC data from the dataset link
-2. Python code: 
+2. Python code (written in Tensorflow):
 	1. Change the source file path
 	2. Run the data preprocessing and other steps
