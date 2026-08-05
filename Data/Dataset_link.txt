@@ -1,0 +1,3 @@
+The experimental EEG data for subjects with Frontotemporal Dementia and healthy controls can be obtained from the public dataset available at the link below.
+
+https://openneuro.org/datasets/ds004504/versions/1.0.9
